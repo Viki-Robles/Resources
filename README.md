@@ -6,6 +6,8 @@ JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-feat
 ## React
 - Multi-Step Form with React
 [https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s]
+- React Auth with Firebase and Routing
+[https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s]()
 
 ### API's
 Fetching Data: 
