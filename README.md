@@ -6,7 +6,7 @@ JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-feat
 ### API's
 Fetching Data: 
 [https://flaviocopes.com/fetch-api/#introduction-to-the-fetch-api]()
--- Coonecting MongoDB with Node App:
+- Conecting MongoDB with Node App:
 [https://www.youtube.com/watch?v=UJgK9tEs0cQ]()
 
 ### Testing
