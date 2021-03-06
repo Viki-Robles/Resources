@@ -14,6 +14,10 @@ JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-feat
 [https://www.youtube.com/watch?v=o3eR0X91Ogs]()
 - How to identify and resolve wasted renders in React
 [https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/]()
+- 35 React Templates
+[https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci]()
+#### UseRef Hook: 
+-[https://ui.dev/useref/]()
 
 ### API's
 Fetching Data: 
@@ -56,5 +60,14 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 # Design Tools
 - AWS Scrolling: 
 1. [https://www.youtube.com/watch?v=JcHLxzrsRS4]()
+2. [https://github.com/michalsnik/aos]()
+
+## Design Tools Library
+- [https://evernote.design/]()
+- [https://undraw.co/illustrations]()
+### 10 CSS Maerial Design Cards
+- [https://freefrontend.com/css-material-design-cards/]()
+## SVG 
+[https://iconmonstr.com/]()
 
 
