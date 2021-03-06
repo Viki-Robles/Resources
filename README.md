@@ -55,6 +55,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 # Design Tools
 - AWS Scrolling: 
-1.[https://www.youtube.com/watch?v=JcHLxzrsRS4]()
+1. [https://www.youtube.com/watch?v=JcHLxzrsRS4]()
 
 
