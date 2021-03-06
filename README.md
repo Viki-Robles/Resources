@@ -54,6 +54,7 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 [https://reactjsexample.com/tag/swipe/]()
 
 # Design Tools
-- AWS Scrolling: [https://www.youtube.com/watch?v=JcHLxzrsRS4]()
+- AWS Scrolling: 
+1.[https://www.youtube.com/watch?v=JcHLxzrsRS4]()
 
 
