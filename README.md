@@ -8,6 +8,12 @@ JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-feat
 [https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s]()
 - React Auth with Firebase and Routing
 [https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s]()
+- React Hamburger Menu - Nice
+[https://www.youtube.com/watch?v=F-mvXKKoSCU&t=261s]()
+- Send email with React Node
+[https://www.youtube.com/watch?v=o3eR0X91Ogs]()
+- How to identify and resolve wasted renders in React
+[https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/]()
 
 ### API's
 Fetching Data: 
@@ -18,6 +24,11 @@ Fetching Data:
 [https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them#:~:text=tool%20you%20choose.-,POST,body%20of%20the%20HTTP%20request.&text=When%20you%20fill%20out%20the,and%20sent%20to%20the%20server.]()
 - Rest Architecture
 [https://auth0.com/blog/rest-architecture-part-1-building-api/]()
+- Multiple API Requests in React
+[https://www.youtube.com/watch?v=Mt3kxUvHORA]()
+
+### Express Middleware with Examples
+[https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples]()
 
 ### Testing
 [https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest]()
@@ -36,6 +47,13 @@ Testing React Hooks:
 - Glider JS
 [https://www.youtube.com/watch?v=FT9e8EQi8ys]()
 
+### Async
+Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
+### React JS Swipes Examples with code
+[https://reactjsexample.com/tag/swipe/]()
+
+# Design Tools
+- AWS Scrolling: [https://www.youtube.com/watch?v=JcHLxzrsRS4]()
 
 
