@@ -1,4 +1,7 @@
 # Resources
 
 ## JavaScript
-[https://www.freecodecamp.org/news/javascript-new-features-es2020/]()
+JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-features-es2020/]()
+
+### API's
+
