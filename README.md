@@ -70,4 +70,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 ## SVG 
 [https://iconmonstr.com/]()
 
+## Creating an API with AWS: Lambda, DynamoDB, and API Gateway
+[https://www.netlify.com/guides/creating-an-api-with-aws-lambda-dynamodb-and-api-gateway?]()
 
