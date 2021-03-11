@@ -73,3 +73,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 ## Creating an API with AWS: Lambda, DynamoDB, and API Gateway
 [https://www.netlify.com/guides/creating-an-api-with-aws-lambda-dynamodb-and-api-gateway?]()
 
+## Eslint and Prettier set up for Next - Typescript
+[https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project]()
+
