@@ -79,3 +79,5 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 ## Eslint and Prettier set up for Next - Typescript
 [https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project]()
 
+## Resources from Zander
+[https://github.com/mrmartineau/awesome-web-dev-resources#zanders-go-to-web-development-resources]()
