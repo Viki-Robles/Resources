@@ -19,7 +19,7 @@ JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-feat
 [https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/]()
 - 35 React Templates
 [https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci]()
-Formik: [https://github.com/formium/formik]()
+- Formik: [https://github.com/formium/formik]()
 #### UseRef Hook: 
 -[https://ui.dev/useref/]()
 
