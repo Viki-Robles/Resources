@@ -85,3 +85,5 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 ## Site of measuring the  cost of adding a npm package to your bundle
 [https://bundlephobia.com/]()
+## Generate components
+[https://github.com/plopjs/plop]()
