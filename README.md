@@ -81,3 +81,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 ## Resources from Zander
 [https://github.com/mrmartineau/awesome-web-dev-resources#zanders-go-to-web-development-resources]()
+
+## Site of measuring the  cost of adding a npm package to your bundle
+[https://bundlephobia.com/]()
