@@ -87,3 +87,7 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 [https://bundlephobia.com/]()
 ## Generate components
 [https://github.com/plopjs/plop]()
+
+## Fake Data Fetching API
+[https://chancejs.com/]()
+[https://github.com/marak/Faker.js/]()
