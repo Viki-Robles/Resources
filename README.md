@@ -91,3 +91,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 ## Fake Data Fetching API
 - 1. [https://chancejs.com/]()
 - 2. [https://github.com/marak/Faker.js/]()
+
+## Regural Expressions CheatSheet
+[https://vasiliki-robles.medium.com/regular-expressions-cheatsheet-663a4d751979]()
