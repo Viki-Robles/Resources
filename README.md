@@ -94,3 +94,8 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 ## Regural Expressions CheatSheet
 [https://vasiliki-robles.medium.com/regular-expressions-cheatsheet-663a4d751979]()
+
+### TypeScript Guides
+1. [https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example]()
+2. [https://calebharris.github.io/fp_book_club_ts/]()
+3. [https://basarat.gitbook.io/typescript/]()
