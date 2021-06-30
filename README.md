@@ -2,9 +2,10 @@
 
 ## Typescript
 How to pull Greenhouse Data and push them to Firestore
-[https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef]()
+- [https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef]()
 ## JavaScript
-JavaScript new feautures: [https://www.freecodecamp.org/news/javascript-new-features-es2020/]()
+JavaScript new feautures: 
+- [https://www.freecodecamp.org/news/javascript-new-features-es2020/]()
 
 ## React Lib's
 - Multi-Step Form with React
