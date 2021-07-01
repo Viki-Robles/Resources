@@ -103,3 +103,6 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 1. [https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example]()
 2. [https://calebharris.github.io/fp_book_club_ts/]()
 3. [https://basarat.gitbook.io/typescript/]()
+
+### Wireframes
+- [https://whimsical.com/wireframes]()
