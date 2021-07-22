@@ -106,3 +106,5 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 ### Wireframes
 - [https://whimsical.com/wireframes]()
+###Keyboard Shortcuts
+-[https://docs.github.com/en/get-started/using-github/keyboard-shortcuts]()
