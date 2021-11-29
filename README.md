@@ -111,3 +111,7 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 
 ### Keyboard Shortcuts
 -[https://docs.github.com/en/get-started/using-github/keyboard-shortcuts]()
+### Copy link to Clipboard
+- [Chackra UI](https://chakra-ui.com/docs/hooks/use-clipboard)
+### JSON Validator
+- [JSON Validator](https://jsonlint.com/)
