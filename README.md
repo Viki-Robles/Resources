@@ -1,5 +1,7 @@
 # Resources
 
+## Clean code: [Link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+
 ## Typescript
 How to pull Greenhouse Data and push them to Firestore
 - [https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef]()
