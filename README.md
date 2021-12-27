@@ -117,3 +117,5 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 - [Chackra UI](https://chakra-ui.com/docs/hooks/use-clipboard)
 ### JSON Validator
 - [JSON Validator](https://jsonlint.com/)
+### CMS
+[Strapi](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
