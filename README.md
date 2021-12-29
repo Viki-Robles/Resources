@@ -1,32 +1,29 @@
 # Resources
 
-## Clean code: [Link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+### Clean Code Cheatsheet
+- [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
 ## Typescript
-How to pull Greenhouse Data and push them to Firestore
-- [https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef]()
-- TypeScript Errors[https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript]()
-- From JSON to TypeScript Formatter[https://transform.tools/json-to-typescript]()
+- [How to pull Greenhouse Data and push them to Firestore](https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef)
+- [From JSON to TypeScript Formatter](https://transform.tools/json-to-typescript)
+- [Json Formatter]()
 ## JavaScript
-JavaScript new feautures: 
-- [https://www.freecodecamp.org/news/javascript-new-features-es2020/]()
+- [JavaScript Practise](https://exercism.org/tracks/javascript/concepts/basics)
+- [Closure Exercises](http://csbin.io/closures)
+- [Projects Websites to Build for Portfolio](https://www.frontendmentor.io/)
 
 ## React Lib's
-- Multi-Step Form with React
-[https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s]()
-- React Auth with Firebase and Routing
-[https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s]()
-- React Hamburger Menu - Nice
-[https://www.youtube.com/watch?v=F-mvXKKoSCU&t=261s]()
-- Send email with React Node
-[https://www.youtube.com/watch?v=o3eR0X91Ogs]()
-- How to identify and resolve wasted renders in React
-[https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/]()
-- 35 React Templates
-[https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci]()
-- Formik: [https://github.com/formium/formik]()
-#### UseRef Hook: 
--[https://ui.dev/useref/]()
+- [Multi-Step Form with Reac](https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s)
+- [React Auth with Firebase and Routing]
+(https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s)
+- [React Hamburger Menu](https://www.youtube.com/watch?v=F-mvXKKoSCU&t=261s)
+- [Send email with React Node](https://www.youtube.com/watch?v=o3eR0X91Ogs)
+- [How to identify and resolve wasted renders in React](https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/)
+- [35 React Templates](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
+- [Formik](https://github.com/formium/formik)
+
+#### Hooks: 
+-[UseRef](https://ui.dev/useref/)
 
 ### API's
 Fetching Data: 
