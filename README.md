@@ -121,3 +121,5 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 [Strapi](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
 ### React Drag and Drop
 [Drag and drop](https://react-dnd.github.io/react-dnd/about)
+### Firebase User Roles Guid
+[Guide](https://www.toptal.com/firebase/role-based-firebase-authentication)
