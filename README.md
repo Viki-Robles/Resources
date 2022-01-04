@@ -27,9 +27,8 @@
 
 ### API's
 Fetching Data: 
-[https://flaviocopes.com/fetch-api/#introduction-to-the-fetch-api]()
-- Conecting MongoDB with Node App:
-[https://www.youtube.com/watch?v=UJgK9tEs0cQ]()
+- [Introduction to Fetch API](https://flaviocopes.com/fetch-api/#introduction-to-the-fetch-api)
+- [Conecting MongoDB with Node App](https://www.youtube.com/watch?v=UJgK9tEs0cQ)
 - 7 HTTP Methods
 [https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them#:~:text=tool%20you%20choose.-,POST,body%20of%20the%20HTTP%20request.&text=When%20you%20fill%20out%20the,and%20sent%20to%20the%20server.]()
 - Rest Architecture
