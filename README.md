@@ -47,21 +47,21 @@ Fetching Data:
 - [https://github.com/hustcc/jest-date-mock]()
 
 ### Setting up Flutter on macos Catalina
-[https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae]()
+- [Set up](https://medium.com/@alexandrosbaramilis/setting-up-flutter-on-macos-catalina-d023df8845ae)
 
 ## Flavio Copes
 - [https://flaviocopes.com/jest/#create-the-first-jest-test]()
 
-## React Carousel
-[https://www.youtube.com/watch?v=FE_wFh3qjog]()
+## React
+- [Carousel](https://www.youtube.com/watch?v=FE_wFh3qjog)
 - Glider JS
 [https://www.youtube.com/watch?v=FT9e8EQi8ys]()
 
 ### Async
-Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
+- [Kodiri Youtube](https://www.youtube.com/watch?v=lJh9QtbF_l8)
 
 ### React JS Swipes Examples with code
-[https://reactjsexample.com/tag/swipe/]()
+- [React Swipe](https://reactjsexample.com/tag/swipe/)
 
 # Design Tools
 - AWS Scrolling: 
@@ -70,19 +70,19 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 3. [https://build.mmm.page/](): Funky ready websites
 
 ## Design Tools Library
-- [https://evernote.design/]()
-- [https://undraw.co/illustrations]()
-### 10 CSS Maerial Design Cards
-- [https://freefrontend.com/css-material-design-cards/]()
+- [Evernote](https://evernote.design/)
+- [Undraw](https://undraw.co/illustrations)
+### CSS
+- [10 CSS Material Design Cards](https://freefrontend.com/css-material-design-cards/)
 
 ## SVG 
-[https://iconmonstr.com/]()
+- [IconMonster](https://iconmonstr.com/)
 
 ## Creating an API with AWS: Lambda, DynamoDB, and API Gateway
-[https://www.netlify.com/guides/creating-an-api-with-aws-lambda-dynamodb-and-api-gateway?]()
+- [Netlify - creating an api with aws lambda](https://www.netlify.com/guides/creating-an-api-with-aws-lambda-dynamodb-and-api-gateway?)
 
 ## Eslint and Prettier set up for Next - Typescript
-[https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project]()
+- [Link](https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project)
 
 ## Resources from Zander
 [https://github.com/mrmartineau/awesome-web-dev-resources#zanders-go-to-web-development-resources]()
@@ -114,8 +114,11 @@ Kodiri: [https://www.youtube.com/watch?v=lJh9QtbF_l8]()
 ### JSON Validator
 - [JSON Validator](https://jsonlint.com/)
 ### CMS
-[Strapi](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
+- [Strapi](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
 ### React Drag and Drop
-[Drag and drop](https://react-dnd.github.io/react-dnd/about)
+- [Drag and drop](https://react-dnd.github.io/react-dnd/about)
 ### Firebase User Roles Guid
-[Guide](https://www.toptal.com/firebase/role-based-firebase-authentication)
+- [Guide](https://www.toptal.com/firebase/role-based-firebase-authentication)
+
+### Ecommerce
+- [Medusa](https://github.com/medusajs/medusa#-quickstart)
