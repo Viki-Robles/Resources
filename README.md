@@ -13,6 +13,7 @@
 - [Projects Websites to Build for Portfolio](https://www.frontendmentor.io/)
 - [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [JavaScript Visualizer](https://ui.dev/javascript-visualizer/)
+- [Advanced JavaScript](https://ui.dev/advanced-javascript/)
 
 ## React Lib's
 - [Multi-Step Form with Reac](https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s)
