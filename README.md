@@ -14,6 +14,7 @@
 - [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [JavaScript Visualizer](https://ui.dev/javascript-visualizer/)
 - [Advanced JavaScript](https://ui.dev/advanced-javascript/)
+- [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#explanation-with-sample-code-2)
 
 ## React Lib's
 - [Multi-Step Form with Reac](https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s)
