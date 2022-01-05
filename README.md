@@ -14,8 +14,7 @@
 
 ## React Lib's
 - [Multi-Step Form with Reac](https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s)
-- [React Auth with Firebase and Routing]
-(https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s)
+- [React Auth with Firebase and Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k&t=176s)
 - [React Hamburger Menu](https://www.youtube.com/watch?v=F-mvXKKoSCU&t=261s)
 - [Send email with React Node](https://www.youtube.com/watch?v=o3eR0X91Ogs)
 - [How to identify and resolve wasted renders in React](https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/)
@@ -23,7 +22,7 @@
 - [Formik](https://github.com/formium/formik)
 
 #### Hooks: 
--[UseRef](https://ui.dev/useref/)
+- [UseRef](https://ui.dev/useref/)
 
 ### API's
 Fetching Data: 
