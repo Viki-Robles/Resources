@@ -85,24 +85,26 @@ Fetching Data:
 - [Link](https://robertcooper.me/post/using-eslint-and-prettier-in-a-typescript-project)
 
 ## Resources from Zander
-[https://github.com/mrmartineau/awesome-web-dev-resources#zanders-go-to-web-development-resources]()
+- [Zander Notes](https://github.com/mrmartineau/awesome-web-dev-resources#zanders-go-to-web-development-resources])
 
 ## Site of measuring the  cost of adding a npm package to your bundle
-[https://bundlephobia.com/]()
+- [Bunldephobia](https://bundlephobia.com/)
 ## Generate components
-[https://github.com/plopjs/plop]()
+- [Plop Library Generate Components](https://github.com/plopjs/plop)
+- [Step by step guide to generate automatically components in React](https://dev.to/vikirobles/how-to-generate-automatically-components-pages-hooks-on-your-code-with-plopjs-54k8)
 
 ## Fake Data Fetching API
-- 1. [https://chancejs.com/]()
-- 2. [https://github.com/marak/Faker.js/]()
+- 1. [Source](https://chancejs.com/)
+- 2. [Source](https://github.com/marak/Faker.js/)
 
-## Regural Expressions CheatSheet
-[https://vasiliki-robles.medium.com/regular-expressions-cheatsheet-663a4d751979]()
+## Regural Expressions
+- [CheatSheet](https://vasiliki-robles.medium.com/regular-expressions-cheatsheet-663a4d751979)
 
-### TypeScript Guides
-1. [https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example]()
-2. [https://calebharris.github.io/fp_book_club_ts/]()
-3. [https://basarat.gitbook.io/typescript/]()
+### TypeScript
+- [React TypeScript CheetSheat](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
+- [Functional PRogramming in TypeScript](https://calebharris.github.io/fp_book_club_ts/)
+- [Basarat Book - TypeScript and JS Deep Dive](https://basarat.gitbook.io/typescript/)
+- [Transform JSON to TypeScript](https://transform.tools/)
 
 ### Wireframes
 - [https://whimsical.com/wireframes]()
