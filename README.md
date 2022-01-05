@@ -37,7 +37,7 @@ Fetching Data:
 - [MiddleWare](https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples)
 
 ### Testing
- - Testing with Enzyme](https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest)
+ - [Testing with Enzyme](https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest)
 - Testing React Hooks: 
 - [https://kentcdodds.com/blog/how-to-test-custom-react-hooks]()
 - [https://www.youtube.com/watch?v=7r4xVDI2vho&t=2217s]()
@@ -51,8 +51,7 @@ Fetching Data:
 
 ## React
 - [Carousel](https://www.youtube.com/watch?v=FE_wFh3qjog)
-- Glider JS
-[https://www.youtube.com/watch?v=FT9e8EQi8ys]()
+- [Glider JS](https://www.youtube.com/watch?v=FT9e8EQi8ys)
 
 ### Async
 - [Kodiri Youtube](https://www.youtube.com/watch?v=lJh9QtbF_l8)
