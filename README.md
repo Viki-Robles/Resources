@@ -11,6 +11,8 @@
 - [JavaScript Practise](https://exercism.org/tracks/javascript/concepts/basics)
 - [Closure Exercises](http://csbin.io/closures)
 - [Projects Websites to Build for Portfolio](https://www.frontendmentor.io/)
+- [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [JavaScript Visualizer](https://ui.dev/javascript-visualizer/)
 
 ## React Lib's
 - [Multi-Step Form with Reac](https://www.youtube.com/watch?v=zT62eVxShsY&t=1548s)
@@ -73,6 +75,10 @@ Fetching Data:
 - [Undraw](https://undraw.co/illustrations)
 ### CSS
 - [10 CSS Material Design Cards](https://freefrontend.com/css-material-design-cards/)
+- [Unicode code converter](https://r12a.github.io/app-conversion/)
+- [CSS Triggers](https://csstriggers.com/)
+- [Fluid Responsive Font Size Calculator](https://websemantics.uk/tools/responsive-font-calculator/)
+- [Absolute Centering CSS](https://codepen.io/shshaw/full/gEiDt)
 
 ## SVG 
 - [IconMonster](https://iconmonstr.com/)
