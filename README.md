@@ -63,6 +63,10 @@ Fetching Data:
 1. [https://www.youtube.com/watch?v=JcHLxzrsRS4]()
 2. [https://github.com/michalsnik/aos]()
 3. [https://build.mmm.page/](): Funky ready websites
+4. [Design Tools Collection List](https://www.evernote.design/)
+5. [Photopea](https://www.photopea.com/)
+6. [Smooth Scrolling React](https://www.digitalocean.com/community/tutorials/how-to-implement-smooth-scrolling-in-react)
+7. [CanIUse](https://caniuse.com/)
 
 ## Design Tools Library
 - [Evernote](https://evernote.design/)
