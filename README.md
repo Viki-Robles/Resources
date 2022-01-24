@@ -79,9 +79,12 @@ Fetching Data:
 - [Fluid Responsive Font Size Calculator](https://websemantics.uk/tools/responsive-font-calculator/)
 - [Absolute Centering CSS](https://codepen.io/shshaw/full/gEiDt)
 - [Amazing CSS Sources](https://frontend.horse/articles)
+- [PicoCSS](https://picocss.com/)
 
 ## SVG 
 - [IconMonster](https://iconmonstr.com/)
+- [SnowWeb](https://www.snoweb-svg.com/en/)
+ - [SvgRepo](https://www.svgrepo.com/)
 
 ## Creating an API with AWS: Lambda, DynamoDB, and API Gateway
 - [Netlify - creating an api with aws lambda](https://www.netlify.com/guides/creating-an-api-with-aws-lambda-dynamodb-and-api-gateway?)
@@ -94,6 +97,7 @@ Fetching Data:
 
 ## Site of measuring the  cost of adding a npm package to your bundle
 - [Bunldephobia](https://bundlephobia.com/)
+
 ## Generate components
 - [Plop Library Generate Components](https://github.com/plopjs/plop)
 - [Step by step guide to generate automatically components in React](https://dev.to/vikirobles/how-to-generate-automatically-components-pages-hooks-on-your-code-with-plopjs-54k8)
@@ -110,6 +114,9 @@ Fetching Data:
 - [Functional PRogramming in TypeScript](https://calebharris.github.io/fp_book_club_ts/)
 - [Basarat Book - TypeScript and JS Deep Dive](https://basarat.gitbook.io/typescript/)
 - [Transform JSON to TypeScript](https://transform.tools/)
+
+### Maps
+- [MapLibre](https://maplibre.org/)
 
 ### Wireframes
 - [https://whimsical.com/wireframes]()
