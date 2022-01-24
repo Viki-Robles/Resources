@@ -25,9 +25,6 @@
 - [35 React Templates](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
 - [Formik](https://github.com/formium/formik)
 
-#### Hooks: 
-- [UseRef](https://ui.dev/useref/)
-
 ### API's
 Fetching Data: 
 - [Introduction to Fetch API](https://flaviocopes.com/fetch-api/#introduction-to-the-fetch-api)
