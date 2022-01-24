@@ -1,5 +1,7 @@
 # Resources
 
+### Frontend Tools 2021
+- [Many Cool Thing](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 ### Clean Code Cheatsheet
 - [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 
