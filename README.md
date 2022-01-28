@@ -4,6 +4,7 @@
 - [Many Cool Thing](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 ### Clean Code Cheatsheet
 - [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+- [The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
 
 ## Typescript
 - [How to pull Greenhouse Data and push them to Firestore](https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef)
@@ -26,6 +27,7 @@
 - [How to identify and resolve wasted renders in React](https://www.freecodecamp.org/news/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10/)
 - [35 React Templates](https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci)
 - [Formik](https://github.com/formium/formik)
+- [React Sticky Box](https://react-sticky-box.codecks.io/#see-it-in-action)
 
 ### API's
 Fetching Data: 
