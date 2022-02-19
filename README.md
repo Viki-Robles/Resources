@@ -145,3 +145,6 @@ Fetching Data:
 
 ### Remote Friendly companies
 [Link](https://github.com/remoteintech/remote-jobs)
+
+### Firebase
+[Display User Name](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
