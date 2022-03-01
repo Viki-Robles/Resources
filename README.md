@@ -7,6 +7,9 @@
 - [Clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 - [The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
 
+### Github Emojis:
+[Emojis Link](https://gist.github.com/rxaviers/7360908)
+
 ### Measuring Performance Tool
 [we/dev](https://web.dev/measure/)
 
