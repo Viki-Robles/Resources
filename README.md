@@ -2,6 +2,7 @@
 
 ### Developer Handbook 2021
 [SpellBook](https://github.com/apptension/developer-handbook)
+[SpellBook II](https://github.com/dexteryy/spellbook-of-modern-webdev)
 
 ### Frontend Tools 2021
 - [Many Cool Thing](https://css-tricks.com/hottest-front-end-tools-in-2021/)
