@@ -1,5 +1,8 @@
 # Resources
 
+### Developer Handbook 2021
+[SpellBook](https://github.com/apptension/developer-handbook)
+
 ### Frontend Tools 2021
 - [Many Cool Thing](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 - [Free FrontEnd](https://freefrontend.com/)
@@ -10,8 +13,9 @@
 ### Github Emojis:
 [Emojis Link](https://gist.github.com/rxaviers/7360908)
 
-### Measuring Performance Tool
+### Performance Tool
 [we/dev](https://web.dev/measure/)
+[Light Speed](https://pagespeed.web.dev/)
 
 ## Typescript
 - [How to pull Greenhouse Data and push them to Firestore](https://vasiliki-robles.medium.com/how-to-connect-greenhouse-data-with-firestore-firebase-using-typescript-5974be73b3ef)
