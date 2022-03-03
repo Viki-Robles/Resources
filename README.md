@@ -162,3 +162,6 @@ Fetching Data:
 
 ### Firebase
 [Display User Name](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
+
+### React Router with multiple layouts
+[React Router](https://shtanko-michael.medium.com/multiple-layouts-in-react-app-with-react-router-v5-2eb6a065e3c5)
